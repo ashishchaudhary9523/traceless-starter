@@ -77,7 +77,7 @@ Structured JSON Response
 
 ```
 org.springframework.web.HttpRequestMethodNotSupportedException:
-Request method 'POST' not supported
+Request method 'GET' not supported
 ```
 
 ### ✅ Tresless Response
